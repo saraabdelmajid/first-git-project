@@ -1,0 +1,7 @@
+AutomatedTellerMachine.class
+AutomatedTellerMachineImpl.class
+ATMTransport.class
+StandardAtmTransport.class
+ATMMain.class
+SoapAtmTransport.class
+JsonRestAtmTransport.class
